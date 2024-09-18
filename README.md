@@ -1,4 +1,3 @@
-# Disease-Prediction--Machine-learning
 # Lung Cancer Prediction Using Python
 
 This project aims to predict lung cancer presence using a machine learning model based on a small survey dataset. The dataset includes various features such as demographic, lifestyle, and health-related factors to build a predictive model.
